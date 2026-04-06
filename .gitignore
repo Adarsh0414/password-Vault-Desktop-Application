@@ -1,0 +1,32 @@
+# Maven artifacts
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build_log.txt
+build_log_2.txt
+build_log_3.txt
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Database
+*.db
+passwordvault.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
